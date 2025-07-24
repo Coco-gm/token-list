@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "DEINE_MINT_ADRESSE",
+  "symbol": "XYZ",
+  "name": "MeinCoinName",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/<dein-username>/token-list/main/assets/mainnet/DEINE_MINT_ADRESSE.png",
+  "tags": ["utility-token", "community"]
+}
